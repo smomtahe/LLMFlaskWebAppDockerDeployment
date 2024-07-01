@@ -11,7 +11,6 @@ Dockerized Deployment: Containerized with Docker for easy deployment and scalabi
 Getting Started:
 1- Clone the Repository:
 git clone https://github.com/yourusername/repository.git
-cd repository
 
 2- Build the Docker Image:
 docker build -t flask_simple_app .
